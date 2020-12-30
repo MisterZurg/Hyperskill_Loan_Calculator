@@ -1,4 +1,4 @@
-# Hyperskill_Password_Hacker
+# Hyperskill_Loan_Calculator
 Difficulty: Easy
 
 ## About
