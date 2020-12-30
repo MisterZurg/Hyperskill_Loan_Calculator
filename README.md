@@ -11,9 +11,9 @@ You will also learn more about different financial instruments.
 # Project stages
 ## Stage 1/4: Beginning
 Create a simple program that will print messages about loan calculations.
-# Stage 2/4: Dreamworld
+## Stage 2/4: Dreamworld
 Communicate with the user to get input values, do some simple mathematical operations, and output the result.
-# Stage 3/4: Annuity payment
+## Stage 3/4: Annuity payment
 Calculate real loan parameters using Python’s mathematical capabilities.
-# Stage 4/4: Differentiate payment
+## Stage 4/4: Differentiate payment
 Make the loan calculator able to work with different types of payment and accept command-line arguments.
